@@ -1,7 +1,9 @@
 <img align="center" width="100%" height="1px"
 src="https://media4.giphy.com/media/3xz2BvPPxHhXxhmjC0/giphy.gif?cid=790b7611a09a335365e7959f04d3aca2138c3f6cec440da9&rid=giphy.gif&ct=g" />
 
-<h1 align="center">Hi 👋, I'm Rafa </h1>
+<h1 align="center">Hi, I'm Rafa👋🏼👨🏻‍💻 </h1>
+<p align="center">Currently, I am studying to become FSWD</h2>
+<p align="center"><strong><a href="https://github.com/cod3spac3Academy">Code Space Academy</a></strong></p>
   <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <p id="widgets">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=iRaphiki&show_icons=true&locale=en&theme=tokyonight" alt="iRaphiki" /> 
