@@ -5,7 +5,7 @@ src="https://media4.giphy.com/media/3xz2BvPPxHhXxhmjC0/giphy.gif?cid=790b7611a09
   <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <p id="widgets">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=iRaphiki&show_icons=true&locale=en&theme=tokyonight" alt="iRaphiki" /> 
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRaphiki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iRaphiki" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRaphiki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iRaphiki" />
 </p>
 <p> <img src="https://komarev.com/ghpvc/?username=iRaphiki&label=Profile%20views&color=0e75b6&style=flat" alt="iRaphiki" /> </p>
 <!--  [![iRaphiki's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iRaphiki&&theme=xcode)](https://github.com/iRaphiki) -->
