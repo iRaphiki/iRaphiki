@@ -1,5 +1,5 @@
 <img align="center" width="100%" height="1px"
-src="https://media4.giphy.com/media/3xz2BvPPxHhXxhmjC0/giphy.gif?cid=790b7611a09a335365e7959f04d3aca2138c3f6cec440da9&rid=giphy.gif&ct=g" />
+src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa0g6ynjjtntlapsvwb1zcqlhrwrw8g4yjfzjtf&rid=giphy.gif&ct=g" />
 
 # 👨🏻‍💻 Raphiki 
 <p align="center">Currently, I am studying to become FSWD</h2>
