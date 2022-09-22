@@ -40,7 +40,7 @@ src="" alt="" />
   src="https://github-readme-stats.vercel.app/api/top-langs?username=iRaphiki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iRaphiki" />
 </p>
 <details>
-  <summary><h3>🫂 Contribution Graph</h3></summary>
+  <summary><h4>🫂 Contribution Graph</h4></summary>
   
 [![iRaphiki's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iRaphiki&&theme=material-palenight)](https://github.com/iRaphiki)
 
