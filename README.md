@@ -2,7 +2,7 @@
 src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa0g6ynjjtntlapsvwb1zcqlhrwrw8g4yjfzjtf&rid=giphy.gif&ct=g" />
 <img align="right" width="20%"
 src="" alt="" />
-<h1 align="center"> 👨🏻‍💻 Raphiki </h1>
+<h1 align="center"> 👨🏻‍💻iRaphiki </h1>
 <p align="center">Currently, I am studying to become FSWD</h2>
 <p align="center"><strong><a href="https://github.com/cod3spac3Academy">Code Space Academy</a></strong></p>
 
