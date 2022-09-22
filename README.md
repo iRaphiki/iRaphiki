@@ -1,7 +1,8 @@
 <img align="center" width="100%" height="1px"
 src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa0g6ynjjtntlapsvwb1zcqlhrwrw8g4yjfzjtf&rid=giphy.gif&ct=g" />
-<img src="https://miro.medium.com/max/1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" alt="Developer Banner" />
-# 👨🏻‍💻 Raphiki 
+<img align="right" width="20%"
+src="" alt="" />
+<h1 align="center"> 👨🏻‍💻 Raphiki </h1>
 <p align="center">Currently, I am studying to become FSWD</h2>
 <p align="center"><strong><a href="https://github.com/cod3spac3Academy">Code Space Academy</a></strong></p>
 
@@ -16,11 +17,9 @@ src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -34,15 +33,21 @@ src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa
 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <h2>📊 Stats</h2>
-<p id="widgets">
-  <img align="left" width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=iRaphiki&show_icons=true&locale=en&theme=tokyonight" alt="iRaphiki" /> 
-  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRaphiki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iRaphiki" />
+<p>
+  <img align="left" width="50%" height="200px"
+  src="https://github-readme-stats.vercel.app/api?username=iRaphiki&show_icons=true&locale=en&theme=tokyonight" alt="iRaphiki" /> 
+  <img width="47%" height="200px" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=iRaphiki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iRaphiki" />
 </p>
 <details>
   <summary><h3>🫂 Contribution Graph</h3></summary>
   
 [![iRaphiki's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iRaphiki&&theme=material-palenight)](https://github.com/iRaphiki)
 
+<p align="center">
+  <img width="70%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=iRaphiki&amp;theme=material-palenight" alt="iRaphiki" />
+</p>  
 </details>
 
 <img align="center" width="100%" height="1px"
