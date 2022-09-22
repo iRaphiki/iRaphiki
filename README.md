@@ -1,13 +1,13 @@
 <img align="center" width="100%" height="1px"
 src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa0g6ynjjtntlapsvwb1zcqlhrwrw8g4yjfzjtf&rid=giphy.gif&ct=g" />
-
+<img src="https://miro.medium.com/max/1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" alt="Developer Banner" />
 # 👨🏻‍💻 Raphiki 
 <p align="center">Currently, I am studying to become FSWD</h2>
 <p align="center"><strong><a href="https://github.com/cod3spac3Academy">Code Space Academy</a></strong></p>
 
 ---
 
-## 🧰 Languages and Tools
+<h2>🧰 Languages and Tools</h2>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -28,19 +28,22 @@ src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-
 <br />
 
 --- 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
-## 📊 Stats
+<h2>📊 Stats</h2>
 <p id="widgets">
   <img align="left" width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=iRaphiki&show_icons=true&locale=en&theme=tokyonight" alt="iRaphiki" /> 
   <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=iRaphiki&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iRaphiki" />
 </p>
+<details>
+  <summary><h3>🫂 Contribution Graph</h3></summary>
+  
+[![iRaphiki's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iRaphiki&&theme=material-palenight)](https://github.com/iRaphiki)
 
-<!-- [![iRaphiki's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iRaphiki&&theme=xcode)](https://github.com/iRaphiki) -->
+</details>
 
 <img align="center" width="100%" height="1px"
 src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa0g6ynjjtntlapsvwb1zcqlhrwrw8g4yjfzjtf&rid=giphy.gif&ct=g" />
