@@ -50,5 +50,14 @@ src="" alt="" />
 </p>  
 </details>
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/rafa-fr/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/iRaphiki_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/rafitafdez_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
 <img align="center" width="100%" height="1px"
 src="https://media2.giphy.com/media/eJoZAwRN9OI5QjthIE/giphy.gif?cid=ecf05e47loa0g6ynjjtntlapsvwb1zcqlhrwrw8g4yjfzjtf&rid=giphy.gif&ct=g" />
