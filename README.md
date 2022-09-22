@@ -45,7 +45,7 @@ src="" alt="" />
 [![iRaphiki's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iRaphiki&&theme=material-palenight)](https://github.com/iRaphiki)
 
 <p align="center">
-  <img width="70%"
+  <img width="50%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=iRaphiki&amp;theme=material-palenight" alt="iRaphiki" />
 </p>  
 </details>
