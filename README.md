@@ -1,12 +1,10 @@
-<header align="center">
-  <h1 style="border-bottom:2px solid #50a;margin:20px auto;width:25%;padding:14px 0;border-radius:18px;letter-spacing:.2rem">iRaphiki</h1>
-  <small style="opacity:.65;">Full Stack Web Developer</small>
-</header>
+  <h3 align="center" style="font-size:32px">iRaphiki</h3>
+  <h4 align="center">Full Stack Web Developer</h4>
 
 <main style="margin: 40px 0">
-  <section align="center" style="display:flex;justify-content:space-around;margin: 3vh; height: 3vh">
-    <a href=""><img alt="" src="" /></a>
-    <img alt="Laravel" src="https://www.svgrepo.com/show/353985/laravel.svg" />
+  <section align="center" style="display:flex;justify-content:space-around; height: 42px">
+    <!-- <a href=""><img alt="" src="" /></a> -->
+    <a href="https://laravel.com/"><img heigh="30px" alt="Laravel" src="https://www.svgrepo.com/show/353985/laravel.svg" /></a>
     <img alt="FastAPI" src="https://www.svgrepo.com/show/330413/fastapi.svg" />
     <img alt="Python" src="https://www.svgrepo.com/show/374016/python.svg" />
     <img alt="JavaScript" src="https://www.svgrepo.com/show/373705/js-official.svg" />
