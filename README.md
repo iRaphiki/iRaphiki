@@ -5,10 +5,10 @@
 <p align="center">Full Stack Web Developer</p>
 
 <p align="center">
-  <a href="https://laravel.com/" target="_blank">
+  <a href="https://laravel.com/" target="_blank" text-decoration=none>
     <img width="5%" src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" style="text-decoration:none">
     <img width="5%" src="https://www.svgrepo.com/show/330413/fastapi.svg" alt="FastAPI"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
