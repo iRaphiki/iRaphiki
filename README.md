@@ -5,22 +5,22 @@
 <p align="center">Full Stack Web Developer</p>
 
 <p align="center">
-  <a href="https://laravel.com/" style="color: black; text-decoration: none;text-decoration-style: dotted;">
+  <a href="https://laravel.com/" target="_blank">
     <img width="6%" src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/">
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img width="6%" src="https://www.svgrepo.com/show/330413/fastapi.svg" alt="FastAPI"/>
   </a>
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" target="_blank">
     <img width="6%" alt="Python" src="https://www.svgrepo.com/show/374016/python.svg"/>
   </a>
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img width="6%" alt="TypeScript" src="https://www.svgrepo.com/show/374146/typescript-official.svg"/>
   </a>
-  <a href="https://www.mysql.com/">
+  <a href="https://www.mysql.com/" target="_blank">
     <img width="6%" alt="MySQL" src="https://www.svgrepo.com/show/373848/mysql.svg"/>
   </a>
-  <a href="https://www.mongodb.com/">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img width="6%" alt="MongoDB" src="https://www.svgrepo.com/show/373845/mongo.svg"/>
   </a>
   <a href="https://www.postgresql.org/">
