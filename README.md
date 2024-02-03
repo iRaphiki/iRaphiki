@@ -4,8 +4,6 @@
 </p>
 <p align="center">Full Stack Web Developer</p>
 
-[![Laravel][Laravel.com]][Laravel-url]
-
 <p align="center">
   <a href="https://laravel.com/" target="_blank">
     <img width="5%" src="https://www.svgrepo.com/show/353985/laravel.svg" alt="Laravel"/>
